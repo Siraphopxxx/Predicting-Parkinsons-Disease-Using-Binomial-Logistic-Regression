@@ -28,7 +28,9 @@
 
 
 <img width="1676" height="583" alt="image" src="https://github.com/user-attachments/assets/5245cf9e-639c-477a-8815-94815488edfb" />
+# ก่อนคัด Outlier
 <img width="1662" height="580" alt="image" src="https://github.com/user-attachments/assets/378a1801-a8fd-4248-81e5-0939fa7b37f7" />
+# หลังคัด Outlier
 <img width="1652" height="585" alt="image" src="https://github.com/user-attachments/assets/d52b7b4c-2c2a-49b1-8073-62c6d113a2a9" />
 <img width="776" height="439" alt="image" src="https://github.com/user-attachments/assets/fbd1e24f-4d56-4d94-b208-ef2ee85e0c0d" />
 
